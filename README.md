@@ -1,3 +1,2 @@
 # widgets_app
-
-A new Flutter project.
+App to test some widgets and states controllers
